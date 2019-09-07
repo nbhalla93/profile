@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Hello World
 
-You can use the [editor on GitHub](https://github.com/nbhalla93/profile/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My Name is Nikita Bhalla and I am currently pursuing my Masters in Computer Science at University of Massachusetts, Amherst
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Techical Skills
+- **Languages:** Java Script, Swift, Python, Java. 
+- **Frameworks:** REST APIs, AWS
 
-### Markdown
+## Work Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Bluejeans Networks,** India
+ - Senior Software Development Engineer Oct 2017 - May 2019
+ - Software Development Engineer Jul 2015 – Oct 2017
+ - Software Development Intern Jan 2015 - Jun 2015
+ 
+**NTPC Badarpur,** India
+ - Software Development Intern May 2013 - Jul 2013
 
-```markdown
-Syntax highlighted code block
+ 
+## Projects
 
-# Header 1
-## Header 2
-### Header 3
+### TrafikSense                                                                                                              
+Developed prototype of intelligent adaptive traffic signal using reinforcement learning. Reduced the average wait time by 8% and vehicular emissions by 12% equivalent to 6000 tonnes of carbon monoxide
 
-- Bulleted
-- List
+### Swarm Intelligence
+Simulated autonomous mobile robots’ formation to compare terrain coverage algorithms using Netlogo
+Observed that Node Counting performed the best, 2% more efficient than others, for Spatial coverage & Recency for Temporal Coverage
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Education
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nbhalla93/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **Master of Science, Computer Science,**  University of Massachusetts, Amherst Exp. May 2021                                                                                                                                      
+- **Bachelor of Engineering in Computer Science,** Birla Institute of Technology and Science, Pilani, India , Aug 2011 - Aug 2015     
